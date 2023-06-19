@@ -1,6 +1,6 @@
 # NashvilleHousingProject
 ## Description
-The goal of this project was to take data from an excel spreadsheet to gain insight into the Nashville housing market, so that both consumers and sellers
+The goal of this project was to take data from an Excel spreadsheet to gain insight into the Nashville housing market, so that both consumers and sellers
 will be better informed in their buying and selling. 
 ## Cleaning the Data
 The first thing I did was copy all of the data into a temp table, so that I could use that to clean and alter the data. I did this in case the original data
@@ -29,7 +29,7 @@ First you'll need to download the Excel spreadsheet, then import it into your SQ
 This Excel document should be the only thing you need to run this program, assuming you have a SQL server and management tool. 
 ## Conclusions Drawn
 In terms of sale price, it seems to move up and down between 1800-2020, as opposed to simply trending upward over the years. My conclusion is that houses from the 1800s are sold at
-a higher price as historical pieces as opposed to a livable home. Prices trend upward from 1900s to 2000s and then go back down in the 2010s. I believe this is because
+a higher price as historical pieces as opposed to livable homes. Prices trend upward from the 1900s to the 2000s and then go back down in the 2010s. I believe this is because
 the houses are brand new, so the price takes into account any potential issues that have not yet been discovered. 
 
 As far as number of sales per month, summer is definitely the most popular time for buying. This would be a good time for sellers to list their properties, 
